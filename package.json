@@ -32,7 +32,7 @@
         "node-jqunit": "1.1.8",
         "nyc": "15.0.1",
         "rimraf": "3.0.2",
-        "testem": "3.1.0"
+        "testem": "git@github.com:gtirloni/testem#044f97bc4691acc684e0885ad122c1ad6f8a0a86"
     },
     "devDependencies": {
         "eslint": "7.0.0",
